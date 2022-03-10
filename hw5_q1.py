@@ -7,14 +7,6 @@ collaborating with anyone else, in conformance with the
 NYU School of Engineering Policies and Procedures on
 Academic Misconduct.
 """
-"""
-
-1. Must include at least 8 characters.
-2. Must include at least 2 lowercase letters.
-3. Must include at least 2 uppercase letters.
-4. Must include at least 1 number.
-5. Must include at least 1 of the following non-alphanumeric characters: ! , @ , # , or $ .
-"""
 upper_count = 0;
 lower_count = 0;
 digit_count = 0;
