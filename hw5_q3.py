@@ -20,6 +20,8 @@ index_2 = 0;
 
 dna_one = input("Enter a DNA sequence: ");
 dna_two = input("Enter a second DNA sequence: ");
+dna_one = dna_one.upper();
+dna_two = dna_two.upper();
 
 for nucleotide in dna_one:
     #print("nucleotide:",nucleotide);
